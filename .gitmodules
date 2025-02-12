@@ -1,0 +1,33 @@
+[submodule "lossless/PoTZ"]
+	path = lossless/PoTZ
+	url = https://github.com/jtian0/PoTZ.git
+[submodule "lossless/ndzip"]
+	path = lossless/ndzip
+	url = https://github.com/jtian0/ndzip.git
+[submodule "base/portable"]
+	path = base/portable
+	url = https://github.com/szcompressor/portable.git
+[submodule "base/psz_cusz"]
+	path = base/pSZ_cuSZ
+	url = https://github.com/szcompressor/cuSZ.git
+[submodule "lossy/SZp-CUDA"]
+	path = lossy/SZp-CUDA
+	url = https://github.com/jtian0/SZp-CUDA.git
+[submodule "lossless/cudabitshuffle"]
+	path = lossless/cudabitshuffle
+	url = https://github.com/jtian0/cudabitshuffle
+[submodule "lossless/dietgpu"]
+	path = lossless/dietgpu
+	url = https://github.com/jtian0/dietgpu.git
+[submodule "lossless/GPULZ"]
+	path = lossless/GPULZ
+	url = https://github.com/jtian0/GPULZ.git
+[submodule "lossless/gpuhd"]
+	path = lossless/gpuhd
+	url = https://github.com/jtian0/gpuhd.git
+[submodule "lossless/optim_Huffman_decoder"]
+	path = lossless/optim_Huffman_decoder
+	url = https://github.com/jtian0/optim_Huffman_decoder.git
+[submodule "lossless/Huffman_coding_Gap_arrays"]
+	path = lossless/Huffman_coding_Gap_arrays
+	url = https://github.com/jtian0/Huffman_coding_Gap_arrays.git
